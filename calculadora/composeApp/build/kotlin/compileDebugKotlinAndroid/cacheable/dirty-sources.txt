@@ -1,0 +1,12 @@
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\src\commonMain\kotlin\br\com\calculadora\App.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\src\androidMain\kotlin\br\com\calculadora\MainActivity.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\build\generated\compose\resourceGenerator\kotlin\commonMainResourceCollectors\calculadora\composeapp\generated\resources\ExpectResourceCollectors.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\build\generated\compose\resourceGenerator\kotlin\commonMainResourceAccessors\calculadora\composeapp\generated\resources\Drawable0.commonMain.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\build\generated\compose\resourceGenerator\kotlin\androidMainResourceCollectors\calculadora\composeapp\generated\resources\ActualResourceCollectors.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\src\androidMain\kotlin\br\com\calculadora\Platform.android.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\build\generated\compose\resourceGenerator\kotlin\commonResClass\calculadora\composeapp\generated\resources\Res.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\src\commonMain\kotlin\br\com\calculadora\BatteryService.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\src\commonMain\kotlin\br\com\calculadora\Platform.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\src\commonMain\kotlin\br\com\calculadora\Greeting.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\src\commonMain\kotlin\br\com\calculadora\BatteryScreen.kt
+C:\Users\Digo\Desktop\FlutterAppApi\calculadora\composeApp\src\androidMain\kotlin\br\com\calculadora\BatteryService.kt
